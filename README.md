@@ -66,6 +66,10 @@ These lab was used to setup and practice commonly used tools to ingest online pa
 - **Expanded Threat Feeds**: Integrating additional threat intelligence sources for more comprehensive detection.
 - **Machine Learning Integration**: Applying ML models for anomaly detection and improved alerting precision.
 
+## References:
+- **Source for packet captures:** https://malware-traffic-analysis.net/
+- **Security Onion:** https://securityonionsolutions.com/
+- **ELK Stack:** https://www.elastic.co/elastic-stack
 ---
 
 This structure enables in-depth threat detection and analysis, creating a well-rounded environment for proactive cybersecurity analysis and training.
