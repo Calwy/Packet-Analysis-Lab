@@ -1,5 +1,5 @@
 # Threat Intelligence Lab
-Security Onion based server used for analysis malicious activities based on packet captures
+Security Onion based server used for analyzing malicious activities based on packet captures
 
 ## High-Level Diagram
 ![Untitled Diagram drawio (6)](https://github.com/user-attachments/assets/a3ddaf5a-bf8e-4cfd-890a-c6551c60fd6c)
@@ -7,7 +7,7 @@ Security Onion based server used for analysis malicious activities based on pack
 
 
 ## Overview
-These lab was used to setup and practice commonly used tools to ingest online packet captures and detect, monitor and investigate malicious activity by utilizing Security Onion's comprehensive suite and Wireshark's packet-level inspection capabilites
+These lab were used to setup and practice commonly used tools to ingest online packet captures and detect, monitor and investigate malicious activity by utilizing Security Onion's comprehensive suite and Wireshark's packet-level inspection capabilites
 
 ### 1. **High Level Process:**
 - Packet Capture files are taken from external online sources
